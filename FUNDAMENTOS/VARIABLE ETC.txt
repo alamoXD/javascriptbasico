@@ -1,0 +1,40 @@
+VARIABLES JAVA SCRIPT:
+
+var (nombre de la variable)
+
+TIPOS:
+
+1.Numéricos: Enteros, decimales, y de coma flotante
+
+2.String: secuencia de carecteres, también llamado texto
+
+3.BOOBLEAN: datos lógicos, true o false
+
+4.Undefined: Tipos de datos no definidos
+
+5.NULL: Datos inexistentes
+
+Primero se definen las variables.
+
+LOS NUMEROS NO LLEVAN APOSTROFE
+
+(No se pueden usar como variable palabras reservadas...)
+**tampoco se puede empezar por numeros las variables**
+
+---COMENTARIOS---
+
+Comentarios de una linea: //y lo que quieras comentar.
+Comentarios de varias lines: /* al empieze al final para comentar cosas.
+
+---VARIABLES EN MISMA LINEA---
+Las variables pueden ser diferentes con el mismo nombre.
+//var primerNombre,edad,sexo, esSoltero;
+//primerNombre = "Mardo"
+//edad = "21"
+//sexo = "M"
+//esSoltero = false
+//console.log('El nombre es:' + primerNombre +', y su edad es:' + edad + ', ¿Es soltero?:' + esSoltero);
+
+-----OPERADORES-------
+
+ 

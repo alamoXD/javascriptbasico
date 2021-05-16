@@ -1,0 +1,13 @@
+HTML5 Y CSS3
+
+Siempre se escribe en el Body, el resto no se ve en la web.
+ETIQUETAS:
+
+-meta: Sirve para ver la pagina en distintos dispositivos.
+
+<header> </header>  (Barra de navegación, logos etc...)
+<section></section> (Textos etc)
+ <footer></footer> (Pie de Pagina)
+<div></div> (Sirve para separar en bloques contenidos)
+<ol> Sirve para ordenar lista (con numeros)
+<ul> Sirve para ordenar listas tal cual (Con puntos)
